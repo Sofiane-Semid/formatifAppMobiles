@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tirroir</string>
+    <string name="prenom">Prénom Nom</string>
+    <string name="quitter">Quitter</string>
+    <string name="yo_nom">Yo Nom</string>
+    <string name="menu">Menu</string>
+    <string name="logo">Logo</string>
+    <string name="courriel">Courriel / Email</string>
+    <string name="mot_de_passe">Mot de passe / Password</string>
+    <string name="go">Go</string>
+</resources>
